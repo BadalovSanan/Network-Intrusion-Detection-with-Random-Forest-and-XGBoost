@@ -222,3 +222,6 @@ data/raw/
 
 # Processed csv
 data/processed/*.csv
+
+# Models
+/models/*.pkl
