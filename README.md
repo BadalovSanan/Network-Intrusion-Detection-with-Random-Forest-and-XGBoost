@@ -92,9 +92,11 @@ Source: [Network Intrusion dataset(CIC-IDS- 2017)](https://www.kaggle.com/datase
 | 10 July | EDA and PreProcessing is Done |
 | 10 July | Finalized Model Training and Evaluation |
 | 10 July | Finalizing Project by lastly finishing README |
+| 12 July | Adding My Predictive Maintenance Anomaly Detection Project |
 
 ## Link to other repositories i have
 - [My Student Pass/Fail ML Project](https://github.com/BadalovSanan/My-StudentPassFail-ML-Project)
 - [Casting Product's Deffect Detecting](https://github.com/BadalovSanan/casting-defect-logistic-regression)
-- [Concrete Strength Linear Regression](https://github.com/BadalovSanan/concrete-strength-linear-regression/tree/main)
+- [Concrete Strength Linear Regression](https://github.com/BadalovSanan/concrete-strength-linear-regression)
 - [Credit Card Customer Segmentation](https://github.com/BadalovSanan/credit-card-customer-segmentation)
+- [Predictive Maintenance Anomaly Detection Project](https://github.com/BadalovSanan/Predictive-Maintenance-Anomaly-Detection)
